@@ -26,3 +26,11 @@ npm install
 
 Start the development server
 npm run dev
+
+The demostration of the website.
+![image](https://github.com/user-attachments/assets/1875db65-55d2-41f1-a520-cea54f7dd337)
+![image](https://github.com/user-attachments/assets/5e90f8b7-343a-41e2-8bab-63a28f129f64)
+![image](https://github.com/user-attachments/assets/50e093f3-8e55-4145-9143-d66666d0c596)
+
+
+
