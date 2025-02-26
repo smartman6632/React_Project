@@ -11,7 +11,7 @@ useState is used to track the currently selected season (currentIndex).
 Clicking a button updates currentIndex, which re-renders the corresponding background video and text content.
 Media Assets:
 Video files (island.mp4, spring.mp4, etc.) are stored in /public/assets/videos/.
-Icons and logos are stored in /public/assets/icons/.
+Icons and logos are stored in /public/assets/icons/.These resources aren't posted in github, as you can change any type of video, icons and logos by yourself. :)
 
 Instructions for running locally
 
